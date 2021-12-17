@@ -1,8 +1,10 @@
 <h1 align="center">Beauty Salon</h1>
+<h2 align="center">
+    <img alt="Banner du projet" src="./assets/banner-beauty-salon.png" />
+</h2>
 
 <p align="center">
     <a href="#projet">Projet</a>
-    <a href="#features">Features</a>
     <a href="#installation">Installation</I>
     <a href="#technologies">Technologies</a>
     <a href="#license">License</a>
@@ -17,7 +19,7 @@
 
 
 
-## Le projet
+## Projet
 
 ***
 
@@ -45,7 +47,7 @@ git clone "copier le lien github du projet"
 3- Vous êtes prêt à visualiser le résultat du projet et faire les modifications que vous souhaitez.
 ***
 
-## Tecnologies utilisées
+## Technologies 
 
 - [HTML](https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
